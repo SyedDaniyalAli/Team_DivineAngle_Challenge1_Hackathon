@@ -1,7 +1,6 @@
 # Team DivineAngle Challenge1 Hackathon 
-
 #### FormulaAIHackathon2022
-#### Team_DivineAngle_Challenge1_Hackathon\n
+#### Team_DivineAngle_Challenge1_Hackathon \n
 
 The AI system can make more accurate short-term predictions, including for critical storms and floods.
 
